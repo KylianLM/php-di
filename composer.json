@@ -1,0 +1,10 @@
+{
+    "name": "kylian_lm/php-di",
+    "authors": [
+        {
+            "name": "Kylian LE METTE",
+            "email": "kylian.le.mette@gmail.com"
+        }
+    ],
+    "require": {}
+}
