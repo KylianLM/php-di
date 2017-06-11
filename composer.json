@@ -6,5 +6,8 @@
             "email": "kylian.le.mette@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload":{
+    	"psr-4":{"Dipy\\":"src/"}
+    }
 }
